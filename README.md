@@ -16,4 +16,14 @@ Listing descriptions were tokenized and a simple Word2Vec model was used to crea
 ['pandemic', 'covid', 'outbreak', 'precautions', 'crisis', 'virus', 'sanitizing', 'viral', 'cdc', 'procedures']
 ```
 
+We can also visualize these embeddings in 2D space.
+
 ![t-sne visualization of coronavirus-related keywords](/images/tsne_word2vec.png)
+
+Aggregated by month, we notice a sharp increase in pandemic-related keywords peaking in July 2020:
+
+![keyword frequency](/images/wordfreq.png)
+
+Similarly, the percentage of listings that contained these pandemic-related keywords increased after lockdown restrictions were imposed in NYC as more Airbnb owners reacted to regulatory/supply-side changes in the housing rental market.
+
+![frequency of listings containing keywords](/images/listingfreq.png)
