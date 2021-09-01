@@ -27,3 +27,7 @@ Using these semantically similar keywords, we were able to increase the sensitiv
 Similarly, the percentage of listings that contained these pandemic-related keywords increased after lockdown restrictions were imposed in NYC as more Airbnb owners reacted to regulatory/supply-side changes in the housing rental market.
 
 ![frequency of listings containing keywords](/images/listingfreq.png)
+
+## Mentions
+
+This text analytics piece was completed as part of a wider study on the COVID-19 impact to NYC's Airbnb market at the Center for Urban Science and Progress. The project members are Dina Wagdy, Aleka Raju, Lazarus Chok, Jin Li and Mohamed Ghazy.
