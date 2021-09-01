@@ -16,11 +16,11 @@ Listing descriptions were tokenized and a simple Word2Vec model was used to crea
 ['pandemic', 'covid', 'outbreak', 'precautions', 'crisis', 'virus', 'sanitizing', 'viral', 'cdc', 'procedures']
 ```
 
-We can also visualize these embeddings in 2D space.
+We can visualize these embeddings in 2D space.
 
 ![t-sne visualization of coronavirus-related keywords](/images/tsne_word2vec.png)
 
-Aggregated by month, we notice a sharp increase in pandemic-related keywords peaking in July 2020:
+Using these semantically similar keywords, we were able to increase the sensitivity of our analysis (i.e., we can pick up more instances of listings containing a group of pandemic-related keywords as opposed to a single keyword like 'coronavirus'). Aggregated by month, we notice a sharp increase in pandemic-related keywords peaking in July 2020:
 
 ![keyword frequency](/images/wordfreq.png)
 
