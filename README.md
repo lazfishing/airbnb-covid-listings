@@ -30,4 +30,4 @@ Similarly, the percentage of listings that contained these pandemic-related keyw
 
 ## Mentions
 
-This text analytics piece was completed as part of a wider study on the COVID-19 impact to NYC's Airbnb market at the Center for Urban Science and Progress. The project members are Dina Wagdy, Aleka Raju, Lazarus Chok, Jin Li and Mohamed Ghazy.
+This text analytics piece was completed as part of a wider study on the COVID-19 impact to NYC's Airbnb market at the Center for Urban Science and Progress, in December 2020. The project members are Dina Wagdy, Aleka Raju, Lazarus Chok, Jin Li and Mohamed Ghazy.
