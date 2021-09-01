@@ -12,7 +12,7 @@ Airbnb (1) Listings and (2) Review datasets for NYC from 1st January 2018 to 11t
 
 Listing descriptions were tokenized and a simple Word2Vec model was used to create word embeddings. Using cosine similarity to measure semantic distance, the *n* most similar tokens to each word could be found. For example, the 10 most similar words to `coronavirus` were:
 
-`['pandemic',
+```['pandemic',
  'covid',
  'outbreak',
  'precautions',
@@ -22,6 +22,6 @@ Listing descriptions were tokenized and a simple Word2Vec model was used to crea
  'viral',
  'cdc',
  'procedures']
-`
+```
 
 ![t-sne visualization of coronavirus-related keywords](/images/tsne_word2vec.png)
